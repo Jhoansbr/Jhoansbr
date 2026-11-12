@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="t d"><title id="t">Jhoan Sebastián Blanco Rincón, Software Developer Backend y Full Stack</title><desc id="d">Terminal con el nombre, el cargo y el aviso de que busca prácticas profesionales 2027-I.</desc><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}@keyframes b{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:b 1.1s steps(1) infinite}@media (prefers-reduced-motion:reduce){.cur{animation:none}}</style>
+<rect width="800" height="300" rx="12" fill="#0D1117" stroke="#30363D"/>
+<path d="M0 12a12 12 0 0 1 12-12h776a12 12 0 0 1 12 12v32H0z" fill="#161B22"/>
+<line x1="0" y1="44" x2="800" y2="44" stroke="#30363D"/>
+<circle cx="26" cy="22" r="6" fill="#30363D"/><circle cx="46" cy="22" r="6" fill="#30363D"/><circle cx="66" cy="22" r="6" fill="#30363D"/>
+<text x="400" y="27" text-anchor="middle" font-size="14" fill="#8B949E">jhoansbr: ~/perfil</text>
+<text x="40" y="92" font-size="18" fill="#8B949E"><tspan fill="#3FB950">$</tspan> whoami</text>
+<text x="40" y="148" font-size="40" font-weight="700" fill="#F0F6FC">Jhoan Sebastián Blanco Rincón</text>
+<text x="40" y="190" font-size="25" fill="#58A6FF">Software Developer | Backend &amp; Full Stack</text>
+<text x="40" y="228" font-size="20" fill="#8B949E">Diseño APIs y bases de datos para apps web y móviles.</text>
+<rect x="40" y="246" width="464" height="38" rx="19" fill="#0F2A1A" stroke="#3FB950" stroke-opacity=".6"/>
+<circle cx="64" cy="265" r="6" fill="#3FB950"/>
+<text x="80" y="271" font-size="18" fill="#3FB950">Busco prácticas profesionales 2027-I</text>
+<rect class="cur" x="520" y="250" width="12" height="30" fill="#58A6FF"/>
+</svg>

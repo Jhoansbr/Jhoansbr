@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-labelledby="t d"><title id="t">Análisis Numérico, aplicación web con React y Vite</title><desc id="d">Gráfica de una función que cruza el eje x en su raíz.</desc><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style><rect width="800" height="200" rx="12" fill="#161B22" stroke="#30363D"/>
+<text x="32" y="64" font-size="26" fill="#8B949E">aplicación web</text>
+<text x="32" y="116" font-size="48" font-weight="700" fill="#F0F6FC">Análisis Numérico</text>
+<rect x="32" y="140" width="80" height="36" rx="18" fill="#0D1117" stroke="#30363D"/><text x="72" y="164" text-anchor="middle" font-size="19" fill="#F0F6FC">React</text><rect x="122" y="140" width="68" height="36" rx="18" fill="#0D1117" stroke="#30363D"/><text x="156" y="164" text-anchor="middle" font-size="19" fill="#F0F6FC">Vite</text><rect x="200" y="140" width="137" height="36" rx="18" fill="#0D1117" stroke="#30363D"/><text x="268" y="164" text-anchor="middle" font-size="19" fill="#F0F6FC">JavaScript</text>
+<line x1="548" y1="100" x2="752" y2="100" stroke="#30363D" stroke-width="2"/>
+<line x1="548" y1="30" x2="548" y2="170" stroke="#30363D" stroke-width="2"/>
+<path d="M548 150 C 586 150, 604 130, 640 100 S 704 52, 752 44" fill="none" stroke="#58A6FF" stroke-width="3"/>
+<line x1="640" y1="100" x2="640" y2="168" stroke="#3FB950" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="640" cy="100" r="6" fill="#3FB950"/></svg>
