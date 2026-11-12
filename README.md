@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Jhoan Sebastián, Software Developer Backend y Full Stack" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/banner.svg" width="100%" alt="Jhoan Sebastián, Software Developer Backend y Full Stack" />
 
 <br/>
 
@@ -11,13 +11,13 @@
 
 <br/><br/>
 
-<img src="assets/terminal.svg" width="88%" alt="Terminal: quién soy, mi stack, mi enfoque y mi objetivo" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/terminal.svg" width="88%" alt="Terminal: quién soy, mi stack, mi enfoque y mi objetivo" />
 
 </div>
 
 <br/>
 
-<img src="assets/h-sobre-mi.svg" width="100%" alt="Sobre mí" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/h-sobre-mi.svg" width="100%" alt="Sobre mí" />
 
 <br/>
 
@@ -61,7 +61,7 @@ Me apasiona transformar ideas en soluciones de software. Disfruto el **desarroll
 
 <br/>
 
-<img src="assets/h-stack.svg" width="100%" alt="Stack tecnológico" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/h-stack.svg" width="100%" alt="Stack tecnológico" />
 
 <br/>
 
@@ -93,7 +93,7 @@ Me apasiona transformar ideas en soluciones de software. Disfruto el **desarroll
 
 <br/>
 
-<img src="assets/h-proyectos.svg" width="100%" alt="Proyectos" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/h-proyectos.svg" width="100%" alt="Proyectos" />
 
 <br/>
 
@@ -101,7 +101,7 @@ Me apasiona transformar ideas en soluciones de software. Disfruto el **desarroll
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="assets/card-finsight.svg" width="100%" alt="FinSight: gestión financiera personal con Flutter, Node.js, PostgreSQL y n8n" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/card-finsight.svg" width="100%" alt="FinSight: gestión financiera personal con Flutter, Node.js, PostgreSQL y n8n" />
 
 <a href="https://github.com/Jhoansbr/FinSight"><img src="https://img.shields.io/badge/FRONTEND-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Frontend de FinSight" /></a>
 <a href="https://github.com/Jhoansbr/finsight-back"><img src="https://img.shields.io/badge/BACKEND-172554?style=for-the-badge&logo=github&logoColor=white" alt="Backend de FinSight" /></a>
@@ -109,7 +109,7 @@ Me apasiona transformar ideas en soluciones de software. Disfruto el **desarroll
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="assets/card-numerico.svg" width="100%" alt="Análisis Numérico: métodos numéricos con React y Vite" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/card-numerico.svg" width="100%" alt="Análisis Numérico: métodos numéricos con React y Vite" />
 
 <a href="https://github.com/Jhoansbr/Analisis-Numerico"><img src="https://img.shields.io/badge/REPOSITORIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio de Análisis Numérico" /></a>
 
@@ -142,7 +142,7 @@ flowchart LR
 
 <br/>
 
-<img src="assets/h-actividad.svg" width="100%" alt="Actividad en GitHub" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/h-actividad.svg" width="100%" alt="Actividad en GitHub" />
 
 <br/>
 
@@ -154,7 +154,7 @@ flowchart LR
 
 <br/>
 
-<img src="assets/h-formacion.svg" width="100%" alt="Formación" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/h-formacion.svg" width="100%" alt="Formación" />
 
 <br/>
 
@@ -167,7 +167,7 @@ flowchart LR
 
 <br/>
 
-<img src="assets/h-contacto.svg" width="100%" alt="Contacto" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/h-contacto.svg" width="100%" alt="Contacto" />
 
 <br/>
 
@@ -184,4 +184,4 @@ flowchart LR
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/main/assets/footer.svg" width="100%" alt="" />
