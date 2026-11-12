@@ -1,198 +1,187 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:090E1A,45:172554,100:2563EB&text=JHOAN%20SEBASTI%C3%81N&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%26%20FULL%20STACK&descAlignY=62&descSize=14&animation=fadeIn" width="100%" />
+<img src="assets/banner.svg" width="100%" alt="Jhoan Sebastián, Software Developer Backend y Full Stack" />
 
-<a href="https://github.com/Jhoansbr">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;Backend+%26+Full+Stack+Developer+%F0%9F%9A%80;Dise%C3%B1ando+APIs+y+bases+de+datos+%F0%9F%97%84%EF%B8%8F;Buscando+pr%C3%A1cticas+profesionales+%7C+2027-I+%F0%9F%92%BC" alt="Typing SVG" />
-</a>
+<br/>
+
+<a href="https://linkedin.com/in/jhoanblanco2004"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jhoansbr2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Jhoansbr"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=Jhoansbr&label=VISITAS&color=2563EB&style=for-the-badge" alt="Visitas" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/jhoanblanco2004"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jhoansbr2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Jhoansbr"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Jhoansbr&label=VISITAS&color=2563EB&style=for-the-badge" />
+<img src="assets/terminal.svg" width="88%" alt="Terminal: quién soy, mi stack, mi enfoque y mi objetivo" />
 
 </div>
 
 <br/>
 
-## `01` — Sobre mí
+<img src="assets/h-sobre-mi.svg" width="100%" alt="Sobre mí" />
+
+<br/>
+
+Me apasiona transformar ideas en soluciones de software. Disfruto el **desarrollo backend**, el **diseño de APIs**, la **gestión de bases de datos** y construir aplicaciones completas, de la base de datos a la pantalla.
+
+> [!TIP]
+> **Estoy buscando prácticas profesionales para 2027-I.** Cursando noveno semestre de Ingeniería de Sistemas en la Universidad Simón Bolívar, con enfoque en Backend y Full Stack.
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center" width="33%">
+<h3>🧱</h3>
+<b>Arquitectura de software</b><br/>
+<sub>Aprendiendo a diseñar sistemas que escalan</sub>
+</td>
+<td align="center" width="33%">
+<h3>🌐</h3>
+<b>Desarrollo web</b><br/>
+<sub>Del servidor al navegador</sub>
+</td>
+<td align="center" width="33%">
+<h3>🔐</h3>
+<b>Ciberseguridad</b><br/>
+<sub>Google Cybersecurity Certificate, en curso</sub>
+</td>
+</tr>
+</table>
 
-Me apasiona transformar ideas en soluciones de software. Disfruto especialmente el **desarrollo backend**, el **diseño de APIs**, la **gestión de bases de datos** y la construcción de aplicaciones completas de punta a punta.
+<details>
+<summary><b>💬 Pregúntame sobre...</b></summary>
 
-> 💡 *Me gusta entender cómo funcionan las cosas por dentro, no solo hacer que funcionen.*
+<br/>
+
+- Diseño de APIs con **Node.js / Express** y **Spring**
+- Modelado de bases de datos en **PostgreSQL** y **MySQL**
+- Apps móviles con **Flutter**
+- Automatizaciones con **n8n**
+- Aplicaciones web con **React**, **Django** y **TypeScript**
+
+</details>
+
+<br/>
+
+<img src="assets/h-stack.svg" width="100%" alt="Stack tecnológico" />
+
+<br/>
+
+<div align="center">
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,django&theme=dark" alt="Backend" />
+
+<br/><br/>
+
+**🎨 Frontend y móvil**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,js,ts,html,css&theme=dark" alt="Frontend y móvil" />
+
+<br/><br/>
+
+**🗄️ Datos y herramientas**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux,postman&theme=dark" alt="Bases de datos y herramientas" />
+
+<br/><br/>
+
+**🤖 Automatización**
+
+<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+</div>
+
+<br/>
+
+<img src="assets/h-proyectos.svg" width="100%" alt="Proyectos" />
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="assets/card-finsight.svg" width="100%" alt="FinSight: gestión financiera personal con Flutter, Node.js, PostgreSQL y n8n" />
+
+<a href="https://github.com/Jhoansbr/FinSight"><img src="https://img.shields.io/badge/FRONTEND-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Frontend de FinSight" /></a>
+<a href="https://github.com/Jhoansbr/finsight-back"><img src="https://img.shields.io/badge/BACKEND-172554?style=for-the-badge&logo=github&logoColor=white" alt="Backend de FinSight" /></a>
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" align="center" valign="top">
 
-```yaml
-nombre: Jhoan Sebastián Blanco
-profesión: Estudiante de Ing. de Sistemas
-universidad: Universidad Simón Bolívar
-semestre: Noveno
-enfoque: Backend & Full Stack
-objetivo: Prácticas profesionales | 2027-I
+<img src="assets/card-numerico.svg" width="100%" alt="Análisis Numérico: métodos numéricos con React y Vite" />
+
+<a href="https://github.com/Jhoansbr/Analisis-Numerico"><img src="https://img.shields.io/badge/REPOSITORIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio de Análisis Numérico" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧩 Ver cómo encajan las piezas de FinSight</b></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+    A["📱 App móvil<br/>Flutter"] --> B["⚙️ API backend<br/>Node.js"]
+    B --> C[("🗄️ PostgreSQL")]
+    B <--> D["🤖 n8n<br/>Automatizaciones"]
+
+    classDef app fill:#02569B,stroke:#58A6FF,color:#fff
+    classDef api fill:#339933,stroke:#58A6FF,color:#fff
+    classDef db fill:#4169E1,stroke:#58A6FF,color:#fff
+    classDef auto fill:#EA4B71,stroke:#58A6FF,color:#fff
+    class A app
+    class B api
+    class C db
+    class D auto
 ```
 
-</td>
-</tr>
-</table>
+</details>
 
-### 🔭 Ahora mismo
+<br/>
 
-- 🧱 Fortaleciendo **arquitectura de software**
-- 🌐 Profundizando en **desarrollo web**
-- 🔐 Cursando el **Google Cybersecurity Certificate**
-- 🤝 Abierto a **prácticas profesionales** y proyectos colaborativos
+<img src="assets/h-actividad.svg" width="100%" alt="Actividad en GitHub" />
 
----
-
-## `02` — Tech Stack
+<br/>
 
 <div align="center">
 
-**⚙️ BACKEND**
+<img width="90%" src="https://streak-stats.demolab.com?user=Jhoansbr&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Racha de contribuciones" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,django&theme=dark" />
-
-<br/><br/>
-
-**🎨 FRONTEND & MOBILE**
-
-<img src="https://skillicons.dev/icons?i=react,flutter,js,ts,html,css&theme=dark" />
-
-<br/><br/>
-
-**🗄️ DATABASES & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux,postman&theme=dark" />
-
-<br/><br/>
-
-**🤖 AUTOMATIZACIÓN**
-
-<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-
-</div>
-
----
-
-## `03` — Proyectos seleccionados
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">💰 FinSight</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
 <br/>
 
-Aplicación de gestión financiera personal que facilita el registro, organización y análisis de movimientos económicos.
-
-- 📱 Aplicación móvil
-- 🔌 API backend
-- 🗄️ Base de datos PostgreSQL
-- ⚡ Automatizaciones con n8n
-
-<div align="center">
-
-<a href="https://github.com/Jhoansbr/FinSight"><img src="https://img.shields.io/badge/FRONTEND-→-2563EB?style=for-the-badge" /></a>
-<a href="https://github.com/Jhoansbr/finsight-back"><img src="https://img.shields.io/badge/BACKEND-→-172554?style=for-the-badge" /></a>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📐 Análisis Numérico</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+<img src="assets/h-formacion.svg" width="100%" alt="Formación" />
 
 <br/>
 
-Aplicación web para resolver problemas matemáticos con distintos métodos numéricos.
-
-- 📉 Método de bisección
-- 📈 Interpolación de Lagrange
-- 🎯 Newton-Raphson
-- ✂️ Método de la secante
-
-<div align="center">
-
-<a href="https://github.com/Jhoansbr/Analisis-Numerico"><img src="https://img.shields.io/badge/REPOSITORIO-→-2563EB?style=for-the-badge" /></a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jhoansbr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoansbr&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=Jhoansbr&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<!-- OPCIONAL: serpiente animada. Descomenta SOLO después de ejecutar el workflow snake.yml
-<br/><br/>
-<img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/output/github-snake-dark.svg" width="95%" />
--->
-
-</div>
-
----
-
-## `05` — Formación
-
-| 🎓 Programa | 🏫 Institución |
+| Programa | Institución |
 |:--|:--|
 | Google Cybersecurity Certificate *(en curso)* | Google / Coursera |
-| Programación intermedia | Talento Tech — MinTIC |
+| Programación intermedia | Talento Tech, MinTIC |
 | Desarrollo con Django | Meta / Coursera |
 | Formación en Python | MinTIC / Universidad Distrital |
 
----
+<br/>
+
+<img src="assets/h-contacto.svg" width="100%" alt="Contacto" />
+
+<br/>
 
 <div align="center">
 
-## ¿Trabajamos juntos?
+**¿Tienes un proyecto, una práctica o un reto técnico?** Escríbeme.
 
-Estoy interesado en **prácticas profesionales**, proyectos de desarrollo y nuevos retos tecnológicos.
-
-<a href="mailto:jhoansbr2004@gmail.com">
-<img src="https://img.shields.io/badge/CONTACTARME-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/jhoanblanco2004">
-<img src="https://img.shields.io/badge/CONECTEMOS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="mailto:jhoansbr2004@gmail.com"><img src="https://img.shields.io/badge/ESCRIBIRME-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Escribirme por email" /></a>
+<a href="https://linkedin.com/in/jhoanblanco2004"><img src="https://img.shields.io/badge/CONECTEMOS_EN_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectemos en LinkedIn" /></a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:090E1A&height=110&section=footer" width="100%" />
 
 <sub>Construyendo, aprendiendo y mejorando una línea de código a la vez.</sub>
 
 </div>
+
+<img src="assets/footer.svg" width="100%" alt="" />
