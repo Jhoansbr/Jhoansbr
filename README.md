@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:090E1A,45:172554,100:2563EB&text=JHOAN%20SEBASTI%C3%81N&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%26%20FULL%20STACK&descAlignY=62&descSize=14&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:090E1A,45:172554,100:2563EB&text=JHOAN%20SEBASTI%C3%81N&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%26%20FULL%20STACK&descAlignY=62&descSize=14&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Jhoansbr">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;Backend+%26+Full+Stack+Developer+%F0%9F%9A%80;Dise%C3%B1ando+APIs+y+bases+de+datos+%F0%9F%97%84%EF%B8%8F;Buscando+pr%C3%A1cticas+profesionales+%7C+2027-I+%F0%9F%92%BC" alt="Typing SVG" />
@@ -154,20 +154,12 @@ Aplicación web para resolver problemas matemáticos con distintos métodos num�
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=Jhoansbr&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+<img width="85%" src="https://streak-stats.demolab.com?user=Jhoansbr&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 
+<!-- OPCIONAL: serpiente animada. Descomenta SOLO después de ejecutar el workflow snake.yml
 <br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhoansbr&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&area_color=2563EB&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jhoansbr&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-<br/><br/>
-
-<!-- Requiere el workflow snake.yml (ver instrucciones) -->
 <img src="https://raw.githubusercontent.com/Jhoansbr/Jhoansbr/output/github-snake-dark.svg" width="95%" />
+-->
 
 </div>
 
